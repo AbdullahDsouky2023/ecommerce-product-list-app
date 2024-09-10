@@ -24,7 +24,7 @@ This is a cross-platform e-commerce application built with React Native, Redux T
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ecommerce-product-list-app.git
+   git clone https://github.com/AbdullahDsouky2023/ecommerce-product-list-app
    cd ecommerce-product-list-app
    ```
 
